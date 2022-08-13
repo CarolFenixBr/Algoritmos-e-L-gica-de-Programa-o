@@ -11,11 +11,11 @@ public class Main {
     char genero;
     String nome;
 
-    idade = 20;
-    salario = 5800.5;
+    idade = 28;
+    salario = 3800.5;
     altura = 1.63;
     genero = 'F';
-    nome = "Maria Silva";
+    nome = "Caroline Vargas";
     
     System.out.println("IDADE = " + idade);
     System.out.println("SALARIO = " + String.format("%.2f", salario));
