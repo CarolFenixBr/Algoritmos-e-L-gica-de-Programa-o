@@ -7,7 +7,7 @@
   char genero;
   char nome[50];
     
-  idade = 20;
+  idade = 28;
   salario = 3800.5;
   altura = 1.63;
   genero = 'F';    
