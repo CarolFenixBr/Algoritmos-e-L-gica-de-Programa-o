@@ -11,11 +11,11 @@ int main()
   char genero;
   string nome;
   
-  idade = 20;
-  salario = 5800.5;
+  idade = 28;
+  salario = 3800.5;
   altura = 1.63;
   genero = 'F';
-  nome = "Maria Silva";
+  nome = "Caroline Vargas";
   
   cout << fixed << setprecision(2);
   cout << "IDADE = " << idade << endl;
