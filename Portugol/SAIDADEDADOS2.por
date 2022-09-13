@@ -1,17 +1,17 @@
 Algoritmo "SaidaDeDados2"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 03/08/2021
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
         idade,codigo: inteiro
          preco1, preco2 : real
          genero, produto1, produto2: caractere
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
              produto1 <- "computador"
              produto2 <- "TV "
              preco1 <- 2100.5
